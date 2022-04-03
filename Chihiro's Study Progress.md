@@ -2,9 +2,11 @@
 
 ### CSX free course:
 
+4/3/22: finished up to Precourse part 2, challenge: Control Flow and Iteration
+
 3/20?/22: Started
 
-4/3/22: finished up to Precourse part 2, challenge: Control Flow and Iteration
+
 
 ### Coding Gurus Assignments:
 
@@ -12,9 +14,11 @@
 
 ### Free Code Camp: 
 
+4/3/22: Cat website finished. Cafe Menu started
+
 3/30/22?: Started the course, first with the Cat website
 
-4/3/22: Cat website finished. Cafe Menu started
+
 
 ### W3 School CSS Tutorial:
 
