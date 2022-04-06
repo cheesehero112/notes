@@ -44,11 +44,27 @@ UNIX (trademarked) is a multiuser, multitasking operating system designed for fl
 
 ##### command line and PATH
 
+Command Line is a text interface for a computer, such as the Terminal. It allows me to talk directly to my computer. No graphics and mousing available. When I type into the terminal, I'm always issuing commands such as ls, cd, mkdir, that is why it's called the commend line.
+
+Path is a string of characters used to uniquely identify a location in a directory structure. It is compused by following the directory tree hierarchy, and separated by a character such as "/", ":", or ";". 
+
+Bonus: absolute path vs relative path
+
+absolute path starts at the root of the directory tree, and could be lengthy to type. I can use relative path by referencing the current working directly (cwd) using "../foldername",  ''~/foldername/file", or simply typing "foldername" without the slash.
+
 ##### bash, zsh
+
+Both bash and zsh are a command language that runs in most terminal immurator. In my own terminal, I am running zsh. (you can check what you are using by typying "echo $0")
 
 ##### node
 
+(Not sure if this is the correct "node", but guessing it's referring to Node.js)
+
+Node.js is an open-source, cross-platform, runtime environment for server-side JavaScript applications.
+
 ##### brew
+
+BREW (Binary Runtime Environment for Wireless) is a free and open-source software package management system that simplifies the installation of software on Apple's OS, macOS, and Linux.
 
 ##### command line flags
 

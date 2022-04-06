@@ -8,9 +8,11 @@
 
 ### Coding Guru's Assignments:
 
-4/4/22 Worked on Assignment #1, terminology section. Finished researching words: binary, executable, program, compile vs interpred language, and unix.
+4/6/22: Worked on words: command line and path, bash & zsh, node, and brew.
 
-3/30/22 Started Assignment #1 - finished #1. figure out how to take good notes
+4/4/22:  Worked on Assignment #1, terminology section. Finished researching words: binary, executable, program, compile vs interpred language, and unix.
+
+3/30/22: Started Assignment #1 - finished #1. figure out how to take good notes
 
 ### Free Code Camp: 
 
@@ -25,6 +27,8 @@
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+4/6/22: Finished #20 - 22
 
 4/5/22: Finished #18 - 19 (section 3 finished!)
 
