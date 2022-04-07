@@ -28,7 +28,7 @@
 
 ### Udemy JavaScript:
 
-4/6/22: Finished #20 - 22
+4/6/22: Finished #20 - 23 
 
 4/5/22: Finished #18 - 19 (section 3 finished!)
 
