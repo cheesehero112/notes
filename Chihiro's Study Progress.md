@@ -4,15 +4,25 @@
 
 ### CS Prep:
 
+4/15/22: Got an email invitation to schedule an interview. Need to schedule an interview. 
+
+4/14/22: Application submitted. Waiting to hear back.
+
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### JavaScript for Beginners (JS4B) course:
+
+4/16/22: 2nd Zoom class! 9am-3pm. Got an assessment to finish. If I pass, I'm admitted to the CS prep. 
+
+4/15/22: Finished two pair programming tasks from last week. 
 
 4/11/22: Finished Homework Day 1
 
 4/9/22: First day of class! 9am - 3pm today. 
 
 ### CSX free course:
+
+4/17/22: Functions and Execution Context section started
 
 4/8/22: All challenges for Precourse part 2 finished.
 
@@ -43,6 +53,10 @@
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+4/13/22: Finished #43 - 44, but haing a hard time understanding everything. Will be reviewing older videos in the array section to understand everything better
+
+4/13/22: Finished #41 - 42 (Searching for Arrays part 1)
 
 4/12/22: Started section 6 (Arrays). Finished video #37-39
 
