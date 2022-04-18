@@ -4,6 +4,8 @@
 
 ### CS Prep:
 
+4/17/22: Interview scheduled. JSB assessment is sent. Emailed admission about promo code.
+
 4/15/22: Got an email invitation to schedule an interview. Need to schedule an interview. 
 
 4/14/22: Application submitted. Waiting to hear back.
@@ -11,6 +13,8 @@
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### JavaScript for Beginners (JS4B) course:
+
+4/17/22: Assessment submitted
 
 4/16/22: 2nd Zoom class! 9am-3pm. Got an assessment to finish. If I pass, I'm admitted to the CS prep. 
 
