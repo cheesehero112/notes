@@ -4,6 +4,8 @@
 
 ### CS Prep:
 
+4/20/22: Admission to CS prep confirmed! Attending Women/NB cohord that starts on 5/9/22. 
+
 4/17/22: Interview scheduled. JSB assessment is sent. Emailed admission about promo code.
 
 4/15/22: Got an email invitation to schedule an interview. Need to schedule an interview. 
@@ -13,6 +15,8 @@
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### JavaScript for Beginners (JS4B) course:
+
+4/18/22: Presentation done. My group presented an adventure game 'Spirited Cats'
 
 4/17/22: Assessment submitted
 
@@ -25,6 +29,8 @@
 4/9/22: First day of class! 9am - 3pm today. 
 
 ### CSX free course:
+
+4/22/22: Finished up to Short-Circuiting a loop
 
 4/17/22: Functions and Execution Context section started
 
@@ -57,6 +63,8 @@
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+4/21/22: Reviewed #42, 43, 44 to better understand the concept. Practiced using`.filter()`. Finished #45, and currently working on #46 challenge - improved expense tracker
 
 4/13/22: Finished #43 - 44, but haing a hard time understanding everything. Will be reviewing older videos in the array section to understand everything better
 
