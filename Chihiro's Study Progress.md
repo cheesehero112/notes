@@ -14,6 +14,22 @@
 
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
+### CSX free course:
+
+4/27/22: Finished up to Loops & Control Flow
+
+4/22/22: Finished up to Short-Circuiting a loop
+
+4/17/22: Functions and Execution Context section started
+
+4/8/22: All challenges for Precourse part 2 finished.
+
+4/7/22: finished 3 more challenges: Objects - Examining Properties and Iterating with for...in, Iterating with a for loop
+
+4/3/22: finished up to Precourse part 2, challenge: Control Flow and Iteration
+
+3/20?/22: Started
+
 ### JavaScript for Beginners (JS4B) course:
 
 4/18/22: Presentation done. My group presented an adventure game 'Spirited Cats'
@@ -28,21 +44,9 @@
 
 4/9/22: First day of class! 9am - 3pm today. 
 
-### CSX free course:
-
-4/22/22: Finished up to Short-Circuiting a loop
-
-4/17/22: Functions and Execution Context section started
-
-4/8/22: All challenges for Precourse part 2 finished.
-
-4/7/22: finished 3 more challenges: Objects - Examining Properties and Iterating with for...in, Iterating with a for loop
-
-4/3/22: finished up to Precourse part 2, challenge: Control Flow and Iteration
-
-3/20?/22: Started
-
 ### Coding Guru's Assignments:
+
+4/27/22: Researched the difference between `for-loops` and `.forEach()`
 
 4/6/22: Worked on words: command line and path, bash & zsh, node, and brew.
 

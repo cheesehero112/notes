@@ -30,7 +30,7 @@
 
 To upload updates:
 
-1. git add - pick a file you want to push, or type git add. to push everything
+1. git add - pick a file you want to push, or type git add . to push everything
 2. git commit -m "much better version!"
 3. git push -u origin main
 
