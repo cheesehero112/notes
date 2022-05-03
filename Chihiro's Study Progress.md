@@ -16,6 +16,8 @@
 
 ### CSX free course:
 
+5/2/22: Callbacks & Higher order function section started 
+
 4/27/22: Finished up to Loops & Control Flow
 
 4/22/22: Finished up to Short-Circuiting a loop
@@ -46,6 +48,8 @@
 
 ### Coding Guru's Assignments:
 
+5/2/22: Finished assignment 1
+
 4/27/22: Researched the difference between `for-loops` and `.forEach()`
 
 4/6/22: Worked on words: command line and path, bash & zsh, node, and brew.
@@ -55,6 +59,8 @@
 3/30/22: Started Assignment #1 - finished #1. figure out how to take good notes
 
 ### Free Code Camp: 
+
+5/2/22: CSS Color Markers started
 
 4/5/22: Cafe Menu finished!
 
@@ -67,6 +73,8 @@
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+5/1/22: Finished all of section 6. #46 improving expense tracker challenge is done. 
 
 4/21/22: Reviewed #42, 43, 44 to better understand the concept. Practiced using`.filter()`. Finished #45, and currently working on #46 challenge - improved expense tracker
 
@@ -87,3 +95,11 @@
 4/4/22: Finished video #12 - 17
 
 4/3/22: Started the course. Finished video #1 - 11
+
+
+
+### Codewars:
+
+5/2/22: Working on JS fundamentals posted by myjinxin2015
+
+4/27/22: Joined Codewars

@@ -52,6 +52,16 @@ Bonus: absolute path vs relative path
 
 absolute path starts at the root of the directory tree, and could be lengthy to type. I can use relative path by referencing the current working directly (cwd) using "../foldername",  ''~/foldername/file", or simply typing "foldername" without the slash.
 
+##### command line flags
+
+Command Line flags are a way to set options and pass in arguments to the commands I run. Commands behavior will change based on what flags are set.
+
+Ex.1: `ls -l` in Terminal will include more information in the result. `-l ` is the flag. 
+
+Ex.2: `ls -a` lists all files including hidden files.
+
+Ex.3:`ls -la` will list all files in a single column, including hidden files (*it's a combination of Ex.1 & Ex.2!)
+
 ##### bash, zsh
 
 Both bash and zsh are a command language that runs in most terminal immurator. In my own terminal, I am running zsh. (you can check what you are using by typying "echo $0")
@@ -66,33 +76,81 @@ Node.js is an open-source, cross-platform, runtime environment for server-side J
 
 BREW (Binary Runtime Environment for Wireless) is a free and open-source software package management system that simplifies the installation of software on Apple's OS, macOS, and Linux.
 
-##### command line flags
+##### code editor (vs code, atom, sublime, vim) Some of these terms will be defined by 2 or 3 additional terms that you don’t know, so drill into all of those new terms as well.
 
-##### code editor (vs code, atom, sublime, vim)Some of these terms will be defined by 2 or 3 additional terms that you don’t know, so drill into all of those new terms as well.
+A code editor, also known as a source-code editor, is a text editor program designed specifically for editing source code of computer programs. It could be a standalone application, or it maybe built into an IDE (integrated development environment), or web browser. 
+
+Examples of standalone app: ??
+
+Examples of IDE: NetBeans, Eclipse, IntelliJ, and Visual Studio Code
+
+Examples of browser-based code editor: PlayCode, JSFiddle, CodePen, StackBlitz, AWS Cloud9, JSBin, WordPress Theme Editor
 
 ##### Low-level language vs. high-level language
 
+Low-level language:
+
+It can easily be understood by a computer or a machine. It is difficult to write, understand and debug for humans. It is completely machine/ computer dependent, and highly memory efficient.
+
+​	There are two types of low-level languages:
+
+ 1. Assembly language - it is like a bridge between high level language and machine language. It provides commands such as ADD, MUL, and SUB. It requires an assembler to convert into machine language.
+
+ 2. Machine language - it is a language that consists of binary code that is understood by CPU.
+
+    
+
+High-level language:
+
+It can easily be understood by a human (programmer or user). It is easier to understand and debug, but retuires a translator to convert the source code to native code that a computer can understand. It is completely machine/conputer independent and the least memory-efficient language.  Examples - Java, Python, JavaScript, C++
+
 ##### Assembly code
+
+see Low-Level Language, 1. Assembly Languages above.
 
 ##### JavaScript
 
+JavaScript (JS) is a lightweight, iterpreted, or just-in-time complied programming language with first-class functions. JS is best known as a scripting language for Web pages, but it's used in many non-browser environments.
+
 ##### JavaScript engine
+
+JavaScript engine is an interpreter that parses and executes a JavaScript program.
 
 ##### EcmaScript
 
+ECMA Script is a scripting language specification on which JavaScript is based. ECMA stands for European Computer Manufacturers Association, is in charge of standardizing ECMAScript.
+
 ##### Browser
+
+A browser, also known as an internet browser or a web browser, is application software for accessing the World Wide Web or a local website.
 
 ##### Babel
 
+Babel is a free and open-source JavaScript transcompiler that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript that can be run by older JavaScript engines.
+
 ##### Transpiler
+
+Transpiler, also known as source-to-source compiler, or a transcompiler, is a program that translates a source code from a language to another at the same level of abstraction. (*note the difference with compiler, which outputs a lower level language than its input)
 
 
 
 ##### 3. Spend at least 5 minutes a day using command line basic commands ls, pwd, cd, cp, touch, mkdir etc.. Be extra careful when using rm so you don’t break your computer
 
+I use ls, cd, clear, git commands a lot, but need to get used to cp, touch, mkdir. 
+
 ##### 4. codecademy beginner javascript (if it’s free) or freeCodeCamp review html, css, and continue with javascript (2 hours a day)
+
+- Finished Cat website &  Cafe Menu
+- Finished JS Bootcamp (by Andrew Mead) up to section 6
 
 ##### 5. Go to any relevant easy codesmith free lectures https://app.codesmith.io/coding-events
 
+- 
+
 ##### 6. watch youtube videos of computer science fundamentals and take notes (1 hour a day)
+
+My favorite channels
+
+1. The Net Ninjas: https://www.youtube.com/watch?v=SrhHszXkMRU&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET&index=31
+2. The Coding Train : https://www.youtube.com/c/TheCodingTrain
 
