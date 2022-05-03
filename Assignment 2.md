@@ -97,7 +97,7 @@
 
 - ##### DOM, event listeners
 
-  - DOM (Document Object Model) is a programming interface (API) for web documents. It converts a web structure into the tree structure and stores it in internal memory. By using the structure, It can access all aspects of HTML or xml objects (<h1> texts, backgroun color, height of an element, etc) and make changes when needed.
+  - DOM (Document Object Model) is a programming interface (API) for web documents. It converts a web structure into the tree structure and stores it in internal memory. By using the structure, It can access all aspects of HTML or xml objects such as h1 texts, backgroun color, height of an element, etc) and make changes when needed.
 
     - helpful video: https://www.youtube.com/watch?v=ipkjfvl40s0
 
