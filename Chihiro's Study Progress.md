@@ -48,6 +48,8 @@
 
 ### Coding Guru's Assignments:
 
+5/3/22: Finished assignment 2
+
 5/2/22: Finished assignment 1
 
 4/27/22: Researched the difference between `for-loops` and `.forEach()`
@@ -59,6 +61,8 @@
 3/30/22: Started Assignment #1 - finished #1. figure out how to take good notes
 
 ### Free Code Camp: 
+
+5/3/22: CSS Color Markers finished
 
 5/2/22: CSS Color Markers started
 
