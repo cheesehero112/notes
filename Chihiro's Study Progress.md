@@ -4,6 +4,8 @@
 
 ### CS Prep:
 
+5/15/22: Week 1 completed
+
 4/20/22: Admission to CS prep confirmed! Attending Women/NB cohord that starts on 5/9/22. 
 
 4/17/22: Interview scheduled. JSB assessment is sent. Emailed admission about promo code.
@@ -15,6 +17,12 @@
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### CSX free course:
+
+5/15/22: Closure, Scope & EC section (14/26 completed)
+
+5/8/22: Callbacks & Higher order function section completed
+
+5/5/22: Callbacks & Higher order function(16 of 29 completed) 
 
 5/2/22: Callbacks & Higher order function section started 
 
@@ -78,6 +86,8 @@
 
 ### Udemy JavaScript:
 
+5/3/22: Started section 7 (finished up to #51)
+
 5/1/22: Finished all of section 6. #46 improving expense tracker challenge is done. 
 
 4/21/22: Reviewed #42, 43, 44 to better understand the concept. Practiced using`.filter()`. Finished #45, and currently working on #46 challenge - improved expense tracker
@@ -103,6 +113,8 @@
 
 
 ### Codewars:
+
+5/15/22: 7 kyu (51 )
 
 5/2/22: Working on JS fundamentals posted by myjinxin2015
 
