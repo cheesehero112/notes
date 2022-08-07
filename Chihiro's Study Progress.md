@@ -2,7 +2,15 @@
 
 ## Codesmith:
 
+### Immersive:
+
+8/6/22: Have not scheduled my first interview yet. Getting back into studying algos after 2 months of traveling/ working
+
 ### CS Prep:
+
+5/25/22: Assessment Passed. I'm able to bypass the normal initial interview stage. I can schedule a call with the LA Admissions Team [here](https://calendly.com/codesmith-admissions-la-initial/codesmith-la-post-cs-prep-call?month=2022-02).
+
+5/23/22: Last day of CS prep: Presenting group project (card game - War) today. Assessment finished. 
 
 5/15/22: Week 1 completed
 
@@ -17,6 +25,12 @@
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### CSX free course:
+
+6/8/22: All CSX unit complete up to Recursion. 
+
+6/6/22: Recursion challenges are complete (minus the additional reading), working through closure, scope & EC section challenges ( 2 more challenges left plus additional resources)
+
+5/23/22: Working through the recursion section (13/16 completed)
 
 5/15/22: Closure, Scope & EC section (14/26 completed)
 
@@ -54,7 +68,13 @@
 
 4/9/22: First day of class! 9am - 3pm today. 
 
-### Coding Guru's Assignments:
+## Coding Guru's Assignments:
+
+8/6/22: Still working on assignment 3 (mainly FCC today)
+
+6/7/22: Working on assignment 3
+
+5/23/22: starting assignment 3, do this (https://flexboxfroggy.com/) also.
 
 5/3/22: Finished assignment 2
 
@@ -70,6 +90,14 @@
 
 ### Free Code Camp: 
 
+Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+8/6/22: Finished: Rothko Painting, Photo Gallery, Nutrition Label // JS Algo upto returning Boolean value
+
+6/3/22: Finished cerification project (registration form)
+
+5/23/22: Working on a Registration Form
+
 5/3/22: CSS Color Markers finished
 
 5/2/22: CSS Color Markers started
@@ -80,11 +108,17 @@
 
 3/30/22?: Started the course, first with the Cat website
 
-### W3 School CSS Tutorial:
+### W3 School /CSS Tutorial:
+
+5/23/22: worked on Froggy. https://flexboxfroggy.com/
 
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+6/7/22: Finished section 7 (up to #60)
+
+6/6/22: Continuing section 7 (finished up to #52)
 
 5/3/22: Started section 7 (finished up to #51)
 
