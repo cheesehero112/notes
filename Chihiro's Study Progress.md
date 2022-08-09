@@ -4,6 +4,8 @@
 
 ### Immersive:
 
+8/8/22: 1st technical interview is scheduled for this Thursday! 
+
 8/6/22: Have not scheduled my first interview yet. Getting back into studying algos after 2 months of traveling/ working
 
 ### CS Prep:
@@ -25,6 +27,8 @@
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### CSX free course:
+
+8/8/22: Reviewed the closure section. 3 challenges left to review.
 
 6/8/22: All CSX unit complete up to Recursion. 
 
