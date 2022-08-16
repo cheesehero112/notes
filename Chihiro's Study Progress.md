@@ -4,6 +4,10 @@
 
 ### Immersive:
 
+8/15/22: Got accepted to the immersive! Plan on joining cohort 54 starting Oct 17, 2022.
+
+8/11/22: 1st technical interview at 5:30pm. I thought it went very well. Will wait for the result.
+
 8/8/22: 1st technical interview is scheduled for this Thursday! 
 
 8/6/22: Have not scheduled my first interview yet. Getting back into studying algos after 2 months of traveling/ working
@@ -27,6 +31,10 @@
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### CSX free course:
+
+8/10/22: Reviewed functions & execusion context section & refactoring as much as I can
+
+8/9/22: Reviewed Recursion section
 
 8/8/22: Reviewed the closure section. 3 challenges left to review.
 
@@ -96,6 +104,10 @@
 
 Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
+8/13/22: Finished: Tribute page, balance sheet
+
+8/11/22: Finished Building a Quiz
+
 8/6/22: Finished: Rothko Painting, Photo Gallery, Nutrition Label // JS Algo upto returning Boolean value
 
 6/3/22: Finished cerification project (registration form)
@@ -119,6 +131,10 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+8/14/22: Reviewed up to video 58 (section 7)
+
+8/12/22: Reviewing from Section 7 since it's been a while since I last worked on this course.
 
 6/7/22: Finished section 7 (up to #60)
 
