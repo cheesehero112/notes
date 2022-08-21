@@ -4,6 +4,8 @@
 
 ### Immersive:
 
+8/17/22: My spot in cohort 54 confirmed. Received pre-course material. Joined the Slack and Github group
+
 8/15/22: Got accepted to the immersive! Plan on joining cohort 54 starting Oct 17, 2022.
 
 8/11/22: 1st technical interview at 5:30pm. I thought it went very well. Will wait for the result.
@@ -104,6 +106,14 @@
 
 Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
+*) means the project is uploaded to my Github 
+
+8/20/22: Finished: Build a Techinical Document *
+
+8/19/22: Finished: Piano*
+
+8/17/22: Finished: Picasso Painting*
+
 8/13/22: Finished: Tribute page, balance sheet
 
 8/11/22: Finished Building a Quiz
@@ -114,15 +124,15 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 5/23/22: Working on a Registration Form
 
-5/3/22: CSS Color Markers finished
+5/3/22: CSS Color Markers finished*
 
 5/2/22: CSS Color Markers started
 
-4/5/22: Cafe Menu finished!
+4/5/22: Cafe Menu finished!*
 
 4/3/22: Cat website finished. Cafe Menu started
 
-3/30/22?: Started the course, first with the Cat website
+3/30/22?: Started the course, first with the Cat website*
 
 ### W3 School /CSS Tutorial:
 
@@ -131,6 +141,14 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+8/21/22: Finished section 8. Need to review DOM. 
+
+8/20/22: Finished up to video 75 (section 8)
+
+8/18/22: Finished up to video 72 (section 8)
+
+8/16/22: Finished up to video 66 (section 8)
 
 8/14/22: Reviewed up to video 58 (section 7)
 
