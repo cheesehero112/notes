@@ -4,6 +4,10 @@
 
 ### Immersive:
 
+##### Pre-course Progress: 
+
+8/23/22: 1-1 finished (except for the isNull), 1-2 finished (except for createArray, 1-3 hasn't started. Precourse 2 - Google clone started. Precourse 2 - hasn't started
+
 8/17/22: My spot in cohort 54 confirmed. Received pre-course material. Joined the Slack and Github group
 
 8/15/22: Got accepted to the immersive! Plan on joining cohort 54 starting Oct 17, 2022.
@@ -84,6 +88,8 @@
 
 ## Coding Guru's Assignments:
 
+8/22/22: Finished Assignment 3, got tweaked Assignment 4.
+
 8/6/22: Still working on assignment 3 (mainly FCC today)
 
 6/7/22: Working on assignment 3
@@ -103,6 +109,12 @@
 3/30/22: Started Assignment #1 - finished #1. figure out how to take good notes
 
 ### Free Code Camp: 
+
+##### Basic JS: 
+
+8/23/22: Finished upto Replace Loops using Recursion
+
+##### Responsive Webdesign:
 
 Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
@@ -141,6 +153,10 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+8/23/22: Finished up to video 94 (section 10)
+
+8/22/22: Finished section 9!
 
 8/21/22: Finished section 8. Need to review DOM. 
 
