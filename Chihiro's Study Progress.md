@@ -8,6 +8,8 @@
 
 8/23/22: 1-1 finished (except for the isNull), 1-2 finished (except for createArray, 1-3 hasn't started. Precourse 2 - Google clone started. Precourse 2 - hasn't started
 
+
+
 8/17/22: My spot in cohort 54 confirmed. Received pre-course material. Joined the Slack and Github group
 
 8/15/22: Got accepted to the immersive! Plan on joining cohort 54 starting Oct 17, 2022.
@@ -17,6 +19,15 @@
 8/8/22: 1st technical interview is scheduled for this Thursday! 
 
 8/6/22: Have not scheduled my first interview yet. Getting back into studying algos after 2 months of traveling/ working
+
+##### CS Bin Links:
+
+- Callbacks: http://csbin.io/callbacks/roomnumber 
+- Closures: http://csbin.io/closures/roomnumber 
+- Async: http://csbin.io/async/roomnumber 
+- Classes & Prototypes: http://csbin.io/oop/roomnumber
+- Recursion: http://csbin.io/recursion/roomnumber 
+- Intro to JavaScript: http://csbin.io/jsep/roomnumber
 
 ### CS Prep:
 
@@ -110,7 +121,17 @@
 
 ### Free Code Camp: 
 
+##### Basic Algorhythm Scripting:
+
+8/25/22: started
+
+##### OOP:  
+
+8/25/22: Finished
+
 ##### Basic JS: 
+
+8/24/22: Finished
 
 8/23/22: Finished upto Replace Loops using Recursion
 
@@ -119,6 +140,7 @@
 Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 *) means the project is uploaded to my Github 
+8/25/22: Finished City Skyline *
 
 8/20/22: Finished: Build a Techinical Document *
 
