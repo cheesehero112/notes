@@ -12,11 +12,20 @@
 check out [caniuse.com](http://caniuse.com/) for browser support in html, css, and js. You will use this a lot.
 
 - How do you connect html, css, and js in an html file?
+  - I need to put script tags and source links in my html file for appropriate css & js files
 
 - what does the `defer` keyword do?
+  - The defer attribute **tells the browser not to wait for the script**. Instead, the browser will continue to process the HTML, build DOM. The script loads “in the background”, and then runs when the DOM is fully built
+
 - what is the significance of putting the script tag at the END of the body (if not using `defer`)
+  - If <script> tag is not added at end of the <body> tag, DOM may not be ready by that time, thus preventing javascript to work on it, leading to unknown behaviors. Therefore, we should always add <script> tag at the end of the <body> tag **to prevent unknown behaviors and make the webpage load faster**.
 
 - What does the JS engine do exactly? Be familiar with some names like V8, SpiderMonkey. Review the concept of interpretation vs compilation related to this
+  - A JavaScript engine is a software component that **executes JavaScript code**. The first JavaScript engines were mere interpreters, but all relevant modern engines use just-in-time compilation for improved performance. JavaScript engines are typically developed by web browser vendors, and every major browser has one.
+  - V8 is *Google's open source high-performance JavaScript and WebAssembly engine*, written in C++. It is used in Chrome and in Node.js, among others.
+  - SpiderMonkey is the first JavaScript engine, written by Brendan Eich at Netscape Communications, later released as open source and currently maintained by the Mozilla Foundation. It is used in the Firefox web browser.
+  - Watched this video > https://mathiasbynens.be/notes/shapes-ics
+
 - What does it mean when a website is `responsive`?
   - Responsive webdesign is the approach that suggests that design and developtment should respond to the user's behavior and environment based on screen size, platform and orientation.
 
