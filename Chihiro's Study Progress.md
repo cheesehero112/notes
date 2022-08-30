@@ -123,6 +123,8 @@
 
 ##### Basic Algorhythm Scripting:
 
+8/28/22: finished up to Truncate a String
+
 8/25/22: started
 
 ##### OOP:  
@@ -175,6 +177,12 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
 ### Udemy JavaScript:
+
+8/28/22: Finished up to video 111 
+
+8/27/22: Finished up to video 110 (Section 11. Async JS )
+
+8/26/22: Finished section 10!
 
 8/23/22: Finished up to video 94 (section 10)
 
