@@ -4,11 +4,32 @@
 
 ### Immersive:
 
+##### Admin todos:
+
+- scholarship application: submitted (10/3/22)
+- Finished creating student bio (10/3/22)
+
 ##### Pre-course Progress: 
 
+<Flex Zombies> https://mastery.games/flexboxzombies/
+
+9/12/22: finished up to chapter 2
+
+<precourses>
+
+learn git command resources: https://gitimmersion.com/lab_43.html
+
+9/30/22: Bootstrap clone done. Instagram clone is basically done, although I can still keep adding features. Haven't started on json parse clone. 
+
+9/23/22: pre-course 2 fundamental done (except for bonus reduce for extend), started Bootstrap clone
+
+9/15/22: Made progress in Google clone. 
+
+9/14/22: finished up to 1-3 once()
+
+9/8/22: still working on createArray, mostly done but refining. 1-3 finished 50%.
+
 8/23/22: 1-1 finished (except for the isNull), 1-2 finished (except for createArray, 1-3 hasn't started. Precourse 2 - Google clone started. Precourse 2 - hasn't started
-
-
 
 8/17/22: My spot in cohort 54 confirmed. Received pre-course material. Joined the Slack and Github group
 
@@ -24,7 +45,7 @@
 
 - Callbacks: http://csbin.io/callbacks/roomnumber 
 - Closures: http://csbin.io/closures/roomnumber 
-- Async: http://csbin.io/async/roomnumber 
+- Async: http://csbin.io/async/roomnumber (pair programmed on 9/12/22)
 - Classes & Prototypes: http://csbin.io/oop/roomnumber
 - Recursion: http://csbin.io/recursion/roomnumber 
 - Intro to JavaScript: http://csbin.io/jsep/roomnumber
@@ -48,6 +69,10 @@
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### CSX free course:
+
+9/12/22: Finished OOP section except for video lectures, started Async section & 1/3 way into the video lecture <https://www.youtube.com/watch?v=xTjx3q2Nm1w&t=9s> (start around 1:14:00)
+
+9/11/22: Finished 60% of OOP section.
 
 8/10/22: Reviewed functions & execusion context section & refactoring as much as I can
 
@@ -98,6 +123,14 @@
 4/9/22: First day of class! 9am - 3pm today. 
 
 ## Coding Guru's Assignments:
+
+10/4/22: Sue's git lesson done up to #8 (pull request)
+
+9/30/22: Algo-collection design on Figma, and basic frame work done. Sue's git lessons done up to #6. 
+
+9/18/22: Fetch & Display project finished! 
+
+9/4/22: most of Assignment 4 is done (has started the React course, which is the last item of todos)
 
 8/22/22: Finished Assignment 3, got tweaked Assignment 4.
 
@@ -176,7 +209,57 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 4/2/22: Started in tandem with Cafe Menu project. Finished up to CSS Selectors.
 
-### Udemy JavaScript:
+### Udemy Mead/ Node.js:
+
+10/2/11: Finished up to video 46.
+
+9/26/22: Finished up to video 24.
+
+9/22/22: Started the course. Finished up to video 19.
+
+### Udemy Jonas S / Advanced CSS & Sass: 
+
+9/14/22: Finished up to video #5 (I got the backgroun picture up)
+
+### Udemy Colt/ Data Structure & Algo:
+
+10/4/22: Finished up to video 72 (~ section 11) - recursion (skipped the bonus practice problems at section 9 for now), searching algo (bubble sort)
+
+9/21/22: Finished up to video 34 (section 5) - will skip section 6 (optional challenges) for now.
+
+9/15/22: Finished up to video #29 (covered frequency counter pattern)
+
+9/14/22: Finished up to video 24 (end of section 4 - Problem Solving Approach)
+
+9/12/22: Finished up to video 16 (end of section 3 - Arrays & Object performance)
+
+9/11/22: Started! Finished up to video 11 (end of section 2 Big O Notation).
+
+### Udemy Mead/ React:
+
+9/20/22: Finished up to video 86 (section 10: Redux) - might skip to section 19.
+
+9/15/22: FInished up to video #73 (end of section 8)
+
+9/14/22: Finished up to video #69 (styling)
+
+9/13/22: FInished up to video #62 (end of section 7, had trouble setting up webpack and used Create React App)
+
+9/11/22: Finishing up to video #51 (import/ export)
+
+9/8/22: Finished up to video #50 (just downloaded webpack)
+
+9/5/22: Finished up to video #30
+
+9/4/22: Finished up to video #28
+
+9/1/22: Restarted the course. Set up the environment successfully, and finished up to video 12.
+
+### Udemy Mead/ JavaScript:
+
+9/21/22: Finished styling Hangman app, and Notes app. 
+
+9/10/22: Started the new section (CSS & Styling) 
 
 8/28/22: Finished up to video 111 
 
