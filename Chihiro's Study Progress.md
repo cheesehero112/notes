@@ -6,7 +6,7 @@
 
 ##### Admin todos:
 
-- scholarship application: submitted (10/3/22)
+- scholarship application: submitted (10/3/22) - rejected(10/7/22)
 - Finished creating student bio (10/3/22)
 
 ##### Pre-course Progress: 
@@ -18,6 +18,8 @@
 <precourses>
 
 learn git command resources: https://gitimmersion.com/lab_43.html
+
+10/9/22: Instagram clone is done. json parse clone is part finished. It can parse number, string, boolean & null. Pull request finished for Precourse 1 & 2. 
 
 9/30/22: Bootstrap clone done. Instagram clone is basically done, although I can still keep adding features. Haven't started on json parse clone. 
 
@@ -69,6 +71,8 @@ learn git command resources: https://gitimmersion.com/lab_43.html
 4/12/22: Application started. Optional code challenge solved. Need to finish an essay.
 
 ### CSX free course:
+
+10/9/22: Everything finished except for Chrome Extension unit
 
 9/12/22: Finished OOP section except for video lectures, started Async section & 1/3 way into the video lecture <https://www.youtube.com/watch?v=xTjx3q2Nm1w&t=9s> (start around 1:14:00)
 
@@ -175,6 +179,9 @@ learn git command resources: https://gitimmersion.com/lab_43.html
 Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 *) means the project is uploaded to my Github 
+
+10/9/22: Finished Magazine
+
 8/25/22: Finished City Skyline *
 
 8/20/22: Finished: Build a Techinical Document *
@@ -223,6 +230,8 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 ### Udemy Colt/ Data Structure & Algo:
 
+10/9/22: Finished up to video 91 (Intro to Quick sort)
+
 10/4/22: Finished up to video 72 (~ section 11) - recursion (skipped the bonus practice problems at section 9 for now), searching algo (bubble sort)
 
 9/21/22: Finished up to video 34 (section 5) - will skip section 6 (optional challenges) for now.
@@ -236,6 +245,8 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 9/11/22: Started! Finished up to video 11 (end of section 2 Big O Notation).
 
 ### Udemy Mead/ React:
+
+10/9/22: Finished section 19 (hooks, context, fragments) at the end of the course.(Skipped video 87 of section 10 - section 18 for now)
 
 9/20/22: Finished up to video 86 (section 10: Redux) - might skip to section 19.
 
@@ -257,7 +268,7 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 ### Udemy Mead/ JavaScript:
 
-9/21/22: Finished styling Hangman app, and Notes app. 
+9/21/22: Finished up to video 124 (styling Hangman app, and Notes app) 
 
 9/10/22: Started the new section (CSS & Styling) 
 
