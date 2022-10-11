@@ -1,15 +1,3 @@
-# Assignment 1 
-
-##### 1. Research best way to take notes
-
-I will be taking notes including some assignments using Typora to create a markdown file, then make a repo into my Github account. This will also allow me to use Terminal regularly. 
-
-
-
-##### 2. Look up following terms and take notes if your own words in whatever way determined from #1- machine code
-
-
-
 ##### binary
 
 Binary is used in digital computers and based on a binary number system. It can only show two states - off and on, and usually symbolized by 0 and 1.
@@ -131,26 +119,3 @@ Babel is a free and open-source JavaScript transcompiler that is mainly used to 
 ##### Transpiler
 
 Transpiler, also known as source-to-source compiler, or a transcompiler, is a program that translates a source code from a language to another at the same level of abstraction. (*note the difference with compiler, which outputs a lower level language than its input)
-
-
-
-##### 3. Spend at least 5 minutes a day using command line basic commands ls, pwd, cd, cp, touch, mkdir etc.. Be extra careful when using rm so you don’t break your computer
-
-I use ls, cd, clear, git commands a lot, but need to get used to cp, touch, mkdir. 
-
-##### 4. codecademy beginner javascript (if it’s free) or freeCodeCamp review html, css, and continue with javascript (2 hours a day)
-
-- Finished Cat website &  Cafe Menu
-- Finished JS Bootcamp (by Andrew Mead) up to section 6
-
-##### 5. Go to any relevant easy codesmith free lectures https://app.codesmith.io/coding-events
-
-- 
-
-##### 6. watch youtube videos of computer science fundamentals and take notes (1 hour a day)
-
-My favorite channels
-
-1. The Net Ninjas: https://www.youtube.com/watch?v=SrhHszXkMRU&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET&index=31
-2. The Coding Train : https://www.youtube.com/c/TheCodingTrain
-

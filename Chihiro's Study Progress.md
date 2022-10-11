@@ -230,6 +230,8 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 ### Udemy Colt/ Data Structure & Algo:
 
+10/10/22: Finished up to video  128
+
 10/9/22: Finished up to video 91 (Intro to Quick sort)
 
 10/4/22: Finished up to video 72 (~ section 11) - recursion (skipped the bonus practice problems at section 9 for now), searching algo (bubble sort)
