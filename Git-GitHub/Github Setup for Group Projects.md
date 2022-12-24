@@ -100,7 +100,7 @@ On your local computer:
 
 
 
-### Step 6: Submit a Pull Request
+### Step 6: Push your branch to GitHub repo
 
 Push the branch to your remote repo (origin)
 
