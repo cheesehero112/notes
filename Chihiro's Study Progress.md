@@ -13,11 +13,15 @@
 
 <Flex Zombies> https://mastery.games/flexboxzombies/
 
+10/13/22: finished up to chapter 3
+
 9/12/22: finished up to chapter 2
 
 <precourses>
 
 learn git command resources: https://gitimmersion.com/lab_43.html
+
+10/14/22: All 3 pre-courses PR-ed. The json.parser is half complete. Starting immersive in 3 days! 
 
 10/9/22: Instagram clone is done. json parse clone is part finished. It can parse number, string, boolean & null. Pull request finished for Precourse 1 & 2. 
 
