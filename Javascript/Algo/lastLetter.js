@@ -10,3 +10,4 @@ const lastLetter = (word) => word[word.length - 1];
 // TEST
 console.log(lastLetter('apple')); // should log 'e';
 console.log(lastLetter('ChatGPT')); // should log 'T';
+console.log(lastLetter('hi')); // should log 'his';
